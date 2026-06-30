@@ -1,1 +1,1 @@
-# BD_individual_en_pareja_sqlite
+# una base de datos que contiene 5 tablas 
